@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+motor
+pymongo
+python-jose
+PyJWT
+email_validator
